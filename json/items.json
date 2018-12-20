@@ -1,13 +1,13 @@
 [
     {
         "name": "Evolution of simple satellites in Drosophila",
-        "description": "Satellite eveolution.",
+        "description": "We profiled the simple satellite landscape across 9 Drosophila species. ",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
+        "name": "Detecting meiotic drive with pooled sequencing ",
+        "description": "We developed a new approach to identify non-Mendelian transmission frequency from pooled sequeencing. Using this approach we identified a weak centromeric driver",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
