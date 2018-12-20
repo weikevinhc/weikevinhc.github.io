@@ -15,8 +15,23 @@
         "image": "images/remy_suitcase.jpg"
 	},
 	{
-        "name": "Eva",
-        "description": "We miss you.",
-        "image": "images/image1.jpg"
+        "name": "The Bachtrog lab",
+        "description": "",
+        "image": "images/vlad.jpg"
+	},
+	{
+        "name": "The Barbash Lab",
+        "description": "",
+        "image": "images/barbash_lab.jpg"
+	},
+	{
+        "name": "The Clark Lab",
+        "description": "",
+        "image": "images/clark_lab.jpg"
+	},
+	{
+        "name": "Reunion of the Ting Lab at SMBE2017",
+        "description": "",
+        "image": "images/smbe_chauti.jpg"
 	}
 ]
