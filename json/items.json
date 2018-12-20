@@ -31,7 +31,7 @@
 	},
     {
         "name": "Natural variation in simple satellites of D. melanogaster",
-        "description": "Using a new pipeline I developed (k-seek), we characterized the satellite composition across 87 strains of D. melanogaster. We found population differentiation patterns that are surprisingly different from the pattern based on SNP data. We also found that the abundance of many satellites are correlated among strains, suggesting that some satellites are coevolving. \nWei, K. H.-C., Grenier, J. K., Barbash, D. A. & Clark, A. G. Correlated variation and population differentiation in satellite DNA abundance among lines of Drosophila melanogaster. Proc. Natl. Acad. Sci. U. S. A. 111, 18793–18798 (2014).",
+        "description": "Using a new pipeline I developed (k-seek), we characterized the satellite composition across 87 strains of D. melanogaster. We found population differentiation patterns that are surprisingly different from the pattern based on SNP data. We also found that the abundance of many satellites are correlated among strains, suggesting that some satellites are coevolving.\nWei, K. H.-C., Grenier, J. K., Barbash, D. A. & Clark, A. G. Correlated variation and population differentiation in satellite DNA abundance among lines of Drosophila melanogaster. Proc. Natl. Acad. Sci. U. S. A. 111, 18793–18798 (2014).",
         "image": "images/image1.jpg",
         "link": "https://www.ncbi.nlm.nih.gov/pubmed/25512552"
 	},
