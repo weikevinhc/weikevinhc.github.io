@@ -3,13 +3,13 @@
         "name": "About me",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://weikevinhc.github.io/about_me/"
 	},
     {
         "name": "Research interests",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://weikevinhc.github.io/research/"
 	},
     {
         "name": "Publications",
@@ -21,6 +21,6 @@
         "name": "Pictures of cats and me",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://weikevinhc.github.io/cats/"
 	}
 ]
