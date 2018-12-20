@@ -1,0 +1,26 @@
+[
+    {
+        "name": "About me",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Research interests",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Publications",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	},
+    {
+        "name": "Pictures of cats and me",
+        "color": "red",
+        "icon": "web",
+        "url": "https://google.com"
+	}
+]
