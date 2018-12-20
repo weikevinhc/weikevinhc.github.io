@@ -1,15 +1,27 @@
 [
     {
-        "name": "Evolution of simple satellites in Drosophila",
-        "description": "We profiled the simple satellite landscape across 9 Drosophila species. ",
+        "name": "Neo-Y evolution with male recombination in D. albomicans",
+        "description": "Drosophila albomicans has a pair of young neo-sex chromosomes. Surprisingly, the males of this species used to recombine. We explore the effects recombination has had on the neo-Y chromsome.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
 	},
-    {
-        "name": "Detecting meiotic drive with pooled sequencing ",
-        "description": "We developed a new approach to identify non-Mendelian transmission frequency from pooled sequeencing. Using this approach we identified a weak centromeric driver",
+	{
+        "name": "Assemblying the massive neo-Y chromosome of D. miranda",
+        "description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. This includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.",
         "image": "images/image1.jpg",
         "link": "https://google.com"
+	},
+	{
+        "name": "Evolution of simple satellites in Drosophila",
+        "description": "We profiled the simple satellite landscape across 9 Drosophila species. ",
+        "image": "images/image1.jpg",
+        "link": "https://www.ncbi.nlm.nih.gov/pubmed/29361128"
+	},
+    {
+        "name": "Detecting meiotic drive with pooled sequencing",
+        "description": "We developed a new approach that integrates classical genetics with genomics to identify non-Mendelian transmission frequency. Using this approach we identified a weak centromeric driver.",
+        "image": "images/image1.jpg",
+        "link": "https://www.ncbi.nlm.nih.gov/pubmed/28258181"
 	},
     {
         "name": "Project 3",
