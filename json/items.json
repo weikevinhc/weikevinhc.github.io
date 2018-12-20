@@ -13,13 +13,13 @@
 	},
 	{
         "name": "Evolution of simple satellites in Drosophila",
-        "description": "We profiled the simple satellite landscape across 9 Drosophila species. We found a surprising large amount of diversity driven predominantly by the gains of lineage-specific satellites. Interestingly, newly emerged satellites are also closely related in sequence to existing satellites, suggesting that new satellites are frequently birthed from pre-exising ones.\\nWei, K. H.-C. et al. Variable Rates of Simple Satellite Gains across the Drosophila Phylogeny. Mol. Biol. Evol. 35, 925–941 (2018).",
+        "description": "We profiled the simple satellite landscape across 9 Drosophila species. We found a surprising large amount of diversity driven predominantly by the gains of lineage-specific satellites. Interestingly, newly emerged satellites are also closely related in sequence to existing satellites, suggesting that new satellites are frequently birthed from pre-exising ones.\nWei, K. H.-C. et al. Variable Rates of Simple Satellite Gains across the Drosophila Phylogeny. Mol. Biol. Evol. 35, 925–941 (2018).",
         "image": "images/image1.jpg",
         "link": "https://www.ncbi.nlm.nih.gov/pubmed/29361128"
 	},
     {
         "name": "Detecting meiotic drive with pooled sequencing",
-        "description": "We developed a novel approach that integrates classical genetics with genomics to identify non-Mendelian transmission frequency. Rather than genotyping single individuals, we inferred the transmission rate from pooled sequenceing of large number of individuals. Using this approach we identified a weak centromeric driver.\\nWei, K. H.-C. et al. A Pooled Sequencing Approach Identifies a Candidate Meiotic Driver in Drosophila. Genetics 206, 451–465 (2017).",
+        "description": "We developed a novel approach that integrates classical genetics with genomics to identify non-Mendelian transmission frequency. Rather than genotyping single individuals, we inferred the transmission rate from pooled sequenceing of large number of individuals. Using this approach we identified a weak centromeric driver.\nWei, K. H.-C. et al. A Pooled Sequencing Approach Identifies a Candidate Meiotic Driver in Drosophila. Genetics 206, 451–465 (2017).",
         "image": "images/image1.jpg",
         "link": "https://www.ncbi.nlm.nih.gov/pubmed/28258181"
 	},
@@ -34,7 +34,7 @@
         "description": "Using a new pipeline I developed (k-seek), we characterized the satellite composition across 87 strains of D. melanogaster. We found population differentiation patterns that are surprisingly different from the pattern based on SNP data. We also found that the abundance of many satellites are correlated among strains, suggesting that some satellites are coevolving.\\nWei, K. H.-C., Grenier, J. K., Barbash, D. A. & Clark, A. G. Correlated variation and population differentiation in satellite DNA abundance among lines of Drosophila melanogaster. Proc. Natl. Acad. Sci. U. S. A. 111, 18793–18798 (2014).",
         "image": "images/image1.jpg",
         "link": "https://www.ncbi.nlm.nih.gov/pubmed/25512552"
-	},
+	}
 	
 	
 	
