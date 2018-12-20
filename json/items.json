@@ -9,7 +9,7 @@
         "name": "Assemblying the massive neo-Y chromosome of D. miranda",
         "description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. This includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.",
         "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "link": "https://www.ncbi.nlm.nih.gov/pubmed/30059545"
 	},
 	{
         "name": "Evolution of simple satellites in Drosophila",
