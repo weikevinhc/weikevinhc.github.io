@@ -1,5 +1,11 @@
 [
     {
+        "name": "Home",
+        "color": "red",
+        "icon": "web",
+        "url": "https://weikevinhc.github.io/"
+	},
+	{
         "name": "About me",
         "color": "red",
         "icon": "web",
