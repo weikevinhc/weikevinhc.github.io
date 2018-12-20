@@ -187,3 +187,8 @@
 .secondary-dark-b {
     background-color: #FFA000;
 }
+
+
+#hide_email b {
+    display: none;
+}
