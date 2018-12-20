@@ -1,13 +1,13 @@
 [
     {
         "name": "Dubu",
-        "description": "Good boi.",
-        "image": "images/Dubu.jpg"
+        "description": "A good boi, sometimes",
+        "image": "images/dubu.jpg"
 	},
 	{
         "name": "Dori",
-        "description": "Won't get off you.",
-        "image": "images/Dori.jpg"
+        "description": "Won't get off you",
+        "image": "images/dori.jpg"
 	},
 	{
         "name": "Remy",
