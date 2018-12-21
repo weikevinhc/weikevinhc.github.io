@@ -1,17 +1,12 @@
 [
     {
-        "name": "Recombination",
-        "description": "Drosophila albomicans has a pair of young neo-sex chromosomes. Surprisingly, the males of this species used to recombine. We explore the effects recombination has had on the neo-Y chromsome.",
+        "name": "Turning On and off male recombination",
+        "description": "D. albomicans evolved from D. nasuta ~200 thounsand years ago. D. nasuta males, unlike most Drosophila species, recombine, but D. albomicans males no longer recombines. I have been characterizing the effect of male recombination on the evolution of the neo-Y chromosome in D. albomicans. I am also interested in the genetic basis for male recombination in D. nasuta as well as the subsequent reversal in D. albomicans.",
         "image": "images/image1.jpg"
 	},
 	{
-        "name": "Evolution and regulation of repetitive elements",
-        "description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. \\nThis includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.",
-        "image": "images/image1.jpg"
-	},
-	{
-        "name": "Meiotic drive",
-        "description": "We profiled the simple satellite landscape across 9 Drosophila species. ",
+        "name": "Estimating chromosome-wide recombination",
+        "description": "By crossing X-linked mutant flies and counting the recombinant offsprings, Alfred Sturtevant generated the very first genetic map. Since then, his approach has been the de facto method of measuring the recombination rate between two marked loci. Based on this classic cross scheme with visible mutants, I am developing a novel method to estimate chromosome-wide recombination rate using short-read sequencing.",
         "image": "images/image1.jpg"
 	}
 ]
