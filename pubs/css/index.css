@@ -94,13 +94,9 @@
 
 /* Breakpoint resizing */
 @media only screen and (max-width: 1260px) {
-    #portfolioText {
-        font-size: 2rem;
-        margin-bottom: -20px;
-    }
 	#portfolioText {
 		margin-top: 0px;
-		margin-bottom: -30px;
+		margin-bottom: -20px;
 		font-weight: 500;
 		font-size: 1.6rem;
 	}
