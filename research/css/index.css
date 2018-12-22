@@ -60,6 +60,11 @@
     font-weight: 500;
     font-size: 1.8rem;
 }
+#portfolioSubtext {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
 #firstCategoryHeader {
     margin-bottom: -10px;
     font-weight: 500;
@@ -128,6 +133,19 @@
     #portfolioTitle {
         text-align: left;
     }
+	#portfolioText {
+		margin-top: 0px;
+		margin-bottom: -30px;
+		font-weight: 500;
+		font-size: 1.8rem;
+		text-align: center;
+	}
+	#portfolioSubtext {
+		margin-bottom: 20px;
+		font-weight: 400;
+		font-size: 1.2rem;
+		text-align: center;
+	}
     #portfolioColumn {
         padding-left: 8px;
         padding-right: 8px;
