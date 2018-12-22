@@ -101,7 +101,7 @@
 @media only screen and (max-width: 1260px) {
 	#portfolioText {
 		margin-top: 0px;
-		margin-bottom: -20px;
+		margin-bottom: -25px;
 		font-weight: 500;
 		font-size: 1.6rem;
 	}
@@ -138,9 +138,9 @@
     }
 	#portfolioText {
 		margin-top: 0px;
-		margin-bottom: -10px;
+		margin-bottom: -25px;
 		font-weight: 500;
-		font-size: 1.8rem;
+		font-size: 1.6rem;
 		text-align: center;
 	}
 	#portfolioSubtext {
