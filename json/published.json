@@ -1,10 +1,4 @@
 [
-    {
-        "name": "Neo-Y evolution with male recombination",
-        "description": "Drosophila albomicans has a pair of young neo-sex chromosomes. Surprisingly, the males of this species used to recombine. We explore the effects recombination has had on the neo-Y chromsome.",
-        "image": "images/temp.jpg",
-        "link": "https://google.com"
-	},
 	{
         "name": "Assembling the massive neo-Y of D. miranda",
         "description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. This includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.<br/><br/>Mahajan, S., Wei, K. H.-C., Nalley, M. J., Gibilisco, L. & Bachtrog, D. De novo assembly of a young Drosophila Y chromosome using single-molecule sequencing and chromatin conformation capture. PLoS Biol. 16, e2006348 (2018).",

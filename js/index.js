@@ -1,5 +1,4 @@
-var work = document.getElementById("portfolioItemContainer");
-var workRequest = new XMLHttpRequest();
+
 
 var link = document.getElementById("socialLinkContent");
 var linkRequest = new XMLHttpRequest();
@@ -19,7 +18,28 @@ linkRequest.onreadystatechange = function () {
 };
 linkRequest.send(null);
 
-workRequest.open("GET", "json/items.json", true);
+var workC = document.getElementById("portfolioCurrent");
+var workCRequest = new XMLHttpRequest();
+
+workCRequest.open("GET", "json/current.json", true);
+workCRequest.onreadystatechange = function () {
+    if (workCRequest.readyState === 4) {
+        if (workCRequest.status === 200 || workCRequest.status == 0) {
+            var html = "";
+            JSON.parse(workCRequest.responseText).forEach(function (workC) {
+                console.log(workC.name);
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + workC.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + workC.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + workC.name + "<i class=\"material-icons right\">close</i></span><p>" + workC.description + "</p></div></div></div>";
+            });
+            workC.innerHTML = html;
+        }
+    }
+};
+workCRequest.send(null);
+
+
+var work = document.getElementById("portfolioPublished");
+var workRequest = new XMLHttpRequest();
+workRequest.open("GET", "json/published.json", true);
 workRequest.onreadystatechange = function () {
     if (workRequest.readyState === 4) {
         if (workRequest.status === 200 || workRequest.status == 0) {
