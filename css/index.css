@@ -101,12 +101,14 @@
 @media only screen and (max-width: 1260px) {
 	#portfolioText {
 		margin-top: 0px;
-		margin-bottom: -25px;
+		margin-bottom: -20px;
 		font-weight: 500;
 		font-size: 1.6rem;
 	}
 	#portfolioSubtext {
-		font-size: 1.2rem;
+		margin-bottom: 20px;
+		font-weight: 400;
+		font-size: 1.1rem;
 	}
 	#firstCategoryHeader {
 		margin-bottom: -10px;
@@ -138,7 +140,7 @@
     }
 	#portfolioText {
 		margin-top: 0px;
-		margin-bottom: -25px;
+		margin-bottom: -20px;
 		font-weight: 500;
 		font-size: 1.6rem;
 		text-align: center;
@@ -146,7 +148,7 @@
 	#portfolioSubtext {
 		margin-bottom: 20px;
 		font-weight: 400;
-		font-size: 1.2rem;
+		font-size: 1.1rem;
 		text-align: center;
 	}
     #portfolioColumn {
