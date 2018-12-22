@@ -114,7 +114,7 @@
         margin-top: calc(10%);
     }
     #portfolioTitle {
-        text-align: center;
+        text-align: left;
     }
     #portfolioColumn {
         padding-left: 8px;
