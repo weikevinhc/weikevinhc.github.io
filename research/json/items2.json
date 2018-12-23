@@ -1,12 +1,12 @@
 [
     {
-        "name": "Evolution and regulation of repetitive elements",
-        "description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. \\nThis includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.",
-        "image": "images/image1.jpg"
+        "name": "Heterochromatin establishment during the MZ transition",
+        "description": "During early embryogenesis, the embryo transitions from utilizing maternally deposited RNA to producing its own. This is known as the maternal-zygotic transition, which happens at around cell cycle 13. During this time, the heterochromatin rapidly appears at repeats and pericentric regions to prevent deleterious activity of transposable elements. We are currently using maternal deposited RNAi knock-downs to identify maternal transcripts that play a role in the establishment of heterochromatin at this point.",
+        "image": "../images/het_mz.jpg"
 	},
 	{
         "name": "Assymetric meiosis invites cheaters",
         "description": "Unlike spermatogenesis, oogenesis is assymetric where despite producing four meiotic products, only one becomes the oocyte, while the rest become supporting cells. This assymetry presents an opportunity for selfish elements to increase their chance of being included in the oocyte, therefore increasing their fitness. Because repetitive elements predominantly reside in or around the centromere, they are prime suspects to be meiotic cheaters by affecting centromere function during chromosome segregation.</br></br>Image from Thinglink",
-        "image": "images/oogenesis.jpg"
+        "image": "../images/oogenesis.jpg"
 	}
 ]

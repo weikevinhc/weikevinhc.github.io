@@ -2,11 +2,11 @@
     {
         "name": "Turning male recombination on and off",
         "description": "D. albomicans evolved from D. nasuta ~200 thounsand years ago. D. nasuta males, unlike most Drosophila species, recombine, but D. albomicans males no longer recombines. I have been characterizing the effect of male recombination on the evolution of the neo-Y chromosome in D. albomicans. I am also interested in the genetic basis for male recombination in D. nasuta as well as the subsequent reversal in D. albomicans.",
-        "image": "images/current1.jpg"
+        "image": "../images/current1.jpg"
 	},
 	{
         "name": "Estimating chromosome-wide recombination",
         "description": "By crossing X-linked mutant flies and counting the recombinant offsprings, Alfred Sturtevant generated the very first genetic map. Since then, his approach has been the de facto method of measuring the recombination rate between two marked loci. Based on this classic cross scheme with visible mutants, I am developing a novel method to estimate chromosome-wide recombination rate using short-read sequencing.",
-        "image": "images/image1.jpg"
+        "image": "../images/temp.jpg"
 	}
 ]
