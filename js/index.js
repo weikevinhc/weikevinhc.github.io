@@ -2,7 +2,6 @@
 
 var link = document.getElementById("socialLinkContent");
 var linkRequest = new XMLHttpRequest();
-
 linkRequest.open("GET", "json/links.json", true);
 linkRequest.onreadystatechange = function () {
     if (linkRequest.readyState === 4) {
@@ -20,7 +19,6 @@ linkRequest.send(null);
 
 var workC = document.getElementById("portfolioCurrent");
 var workCRequest = new XMLHttpRequest();
-
 workCRequest.open("GET", "json/current.json", true);
 workCRequest.onreadystatechange = function () {
     if (workCRequest.readyState === 4) {
@@ -36,23 +34,22 @@ workCRequest.onreadystatechange = function () {
 };
 workCRequest.send(null);
 
-var workC = document.getElementById("portfolioPreprint");
-var workCRequest = new XMLHttpRequest();
-
-workCRequest.open("GET", "json/preprint.json", true);
-workCRequest.onreadystatechange = function () {
-    if (workCRequest.readyState === 4) {
-        if (workCRequest.status === 200 || workCRequest.status == 0) {
+var workp = document.getElementById("portfolioPreprint");
+var workpRequest = new XMLHttpRequest();
+workpRequest.open("GET", "json/preprint.json", true);
+workpRequest.onreadystatechange = function () {
+    if (workpRequest.readyState === 4) {
+        if (workpRequest.status === 200 || workpRequest.status == 0) {
             var html = "";
-            JSON.parse(workCRequest.responseText).forEach(function (workC) {
-                console.log(workC.name);
-                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + work.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + work.link + " target=\"_blank\">Preprint</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">close</i></span><p>" + work.description + "</p></div></div></div>";
+            JSON.parse(workpRequest.responseText).forEach(function (workp) {
+                console.log(workp.name);
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + workp.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + workp.link + " target=\"_blank\">Preprint</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">close</i></span><p>" + workp.description + "</p></div></div></div>";
             });
-            workC.innerHTML = html;
+            workp.innerHTML = html;
         }
     }
 };
-workCRequest.send(null);
+workpRequest.send(null);
 
 
 var work = document.getElementById("portfolioPublished");
