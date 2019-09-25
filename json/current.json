@@ -1,5 +1,10 @@
 [
     {
+        "name": "Genome-wide recombination rates",
+        "description": "I developed an cost-efficient and simple approach to measure recombination rate at genome scale. This approach called marker selected pools takes advantage of allele frequency decay around a selected locus to infer chromosome-wide recombination rate. The recombination rate and genetic map of a chromosome can be determined in as little as one or two libraries!",
+        "image": "images/current2.jpg"
+	},
+	{
         "name": "Neo-Y evolution with male recombination",
         "description": "Drosophila albomicans has a pair of young neo-sex chromosomes. Surprisingly, the males of this species used to recombine. We explore the effects recombination has had on the neo-Y chromsome and the consequences after the males can no longer recombine.",
         "image": "images/current1.jpg"
