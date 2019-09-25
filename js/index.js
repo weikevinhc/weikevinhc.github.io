@@ -36,6 +36,24 @@ workCRequest.onreadystatechange = function () {
 };
 workCRequest.send(null);
 
+var workC = document.getElementById("portfolioPreprint");
+var workCRequest = new XMLHttpRequest();
+
+workCRequest.open("GET", "json/preprint.json", true);
+workCRequest.onreadystatechange = function () {
+    if (workCRequest.readyState === 4) {
+        if (workCRequest.status === 200 || workCRequest.status == 0) {
+            var html = "";
+            JSON.parse(workCRequest.responseText).forEach(function (workC) {
+                console.log(workC.name);
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + work.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + work.link + " target=\"_blank\">Preprint</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">close</i></span><p>" + work.description + "</p></div></div></div>";
+            });
+            workC.innerHTML = html;
+        }
+    }
+};
+workCRequest.send(null);
+
 
 var work = document.getElementById("portfolioPublished");
 var workRequest = new XMLHttpRequest();
