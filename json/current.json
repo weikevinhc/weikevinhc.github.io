@@ -1,9 +1,5 @@
 [
-    {
-        "name": "CRISPR-Cas9 in D. miranda",
-        "description": "I am using CRISPR-Cas9 to develop transgenic tools in D. miranda. Check out the first ever chimeric white eye miranda!",
-        "image": "images/temp.jpg"
-	},
+    
 	{
         "name": "Nucleation of heterochromatin during embryogenesis",
         "description": "During early embryogenesis, the embryo transitions from utilizing maternally deposited RNA to producing its own. This is known as the maternal-zygotic transition, which happens at around cell cycle 13. During this time, the heterochromatin rapidly appears at repeats and pericentric regions to prevent deleterious activity of transposable elements. We are currently using maternal deposited RNAi knock-downs to identify maternal transcripts that play a role in the establishment of heterochromatin at this point.",
