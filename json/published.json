@@ -14,7 +14,7 @@
 	"linkname": "Preprint"
 	},
 	{
-	"name": "Genome-wide recombination rate and genetic distance estimates",
+	"name": "Recombination rate estimates from allele frequency",
 	"description": "I explore the analytical relationship between recombination rate, genetic distance and recombinant fraction, and their effects of allele frequnecy decay. Based on the theoretical results, I developed an cost-efficient and simple approach to measure recombination rate at genome scale. This approach called marker selected pools takes advantage of allele frequency decay around a selected locus to infer chromosome-wide recombination rate. The recombination rate and genetic map of a chromosome can be determined in as little as one or two libraries!<br/><br/>Wei KH-C, Mantha A, Bachtrog D. The theory and applications of measuring broad-range and chromosome-wide recombination rate from allele frequency decay around a selected locus. Mol Biol Evol. 2020. doi:10.1093/molbev/msaa171",
 	"image": "images/recomb.jpg",
 	"link": "https://pubmed.ncbi.nlm.nih.gov/32658965/",
