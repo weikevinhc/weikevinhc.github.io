@@ -1,12 +1,3 @@
 [
-    {
-        "name": "Epigenetic conflict on the neo-Y",
-        "description": "The Y chromosome is replete with selfish repetitive elements, like transposable elements. If improperly silenced, they can cause deleterious mutations throughout the genome. When a neo-Y chromosome is form, it will gradually accumulate repeats while losing genes, in a process called degeneration. During this process novel TE insertions are in conflict with nearby genes; the epigenetic machinary silencing the former may unadverdantly downregulate the latter. This causes a toxic Y chromosome that is deleterious in males.",
-        "image": "images/toxicY.jpg"
-	},
-	{
-        "name": "Nucleation of heterochromatin during embryogenesis",
-        "description": "During early embryogenesis, the embryo transitions from utilizing maternally deposited RNA to producing its own. This is known as the maternal-zygotic transition, which happens at around cell cycle 13. During this time, the heterochromatin rapidly appears at repeats and pericentric regions to prevent deleterious activity of transposable elements. We are currently using maternal deposited RNAi knock-downs to identify maternal transcripts that play a role in the establishment of heterochromatin at this point.",
-        "image": "images/het_mz.jpg"
-	}
+	
 ]

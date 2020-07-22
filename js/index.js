@@ -43,7 +43,7 @@ workpRequest.onreadystatechange = function () {
             var html = "";
             JSON.parse(workpRequest.responseText).forEach(function (workp) {
                 console.log(workp.name);
-                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + workp.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + workp.link + " target=\"_blank\">Preprint</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">close</i></span><p>" + workp.description + "</p></div></div></div>";
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + workp.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + workp.link + " target=\"_blank\">" + workp.linkname + "</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + workp.name + "<i class=\"material-icons right\">close</i></span><p>" + workp.description + "</p>" + "<p><a href=" + workp.link + " target=\"_blank\">" + workp.linkname + "</a>" + "</p></div></div></div>";
             });
             workp.innerHTML = html;
         }
@@ -61,7 +61,7 @@ workRequest.onreadystatechange = function () {
             var html = "";
             JSON.parse(workRequest.responseText).forEach(function (work) {
                 console.log(work.name);
-                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + work.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + work.link + " target=\"_blank\">Pubmed</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">close</i></span><p>" + work.description + "</p></div></div></div>";
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + work.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + work.link + " target=\"_blank\">" + work.linkname + "</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + work.name + "<i class=\"material-icons right\">close</i></span><p>" + work.description + "</p>" + "<p><a href=" + work.link + " target=\"_blank\">" + work.linkname + "</a>" + "</p></div></div></div>";
             });
             work.innerHTML = html;
         }

@@ -1,8 +1,2 @@
 [
-    {
-        "name": "Genome-wide recombination rates",
-        "description": "I developed an cost-efficient and simple approach to measure recombination rate at genome scale. This approach called marker selected pools takes advantage of allele frequency decay around a selected locus to infer chromosome-wide recombination rate. The recombination rate and genetic map of a chromosome can be determined in as little as one or two libraries!",
-        "image": "images/current2.jpg",
-		"link": "https://www.biorxiv.org/content/10.1101/762575v1"
-	}
 ]
