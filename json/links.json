@@ -5,23 +5,29 @@
         "icon": "cat",
         "url": "https://weikevinhc.github.io/about_me/"
 	},
-    {
+	{
         "name": "Research interests",
         "color": "red",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/research/"
 	},
-    {
+	{
         "name": "Publications",
         "color": "red",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/pubs/"
 	},
-    {
+	{
         "name": "Cat pictures",
         "color": "red",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/cats/"
+	},
+	{
+        "name": "Github",
+        "color": "red",
+        "icon": "cat",
+        "url": "https://github.com/weikevinhc"
 	},
 	{
         "name": "<b>Home</b>",
