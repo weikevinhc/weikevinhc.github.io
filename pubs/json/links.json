@@ -24,6 +24,12 @@
         "url": "https://weikevinhc.github.io/cats/"
 	},
 	{
+        "name": "Github",
+        "color": "red",
+        "icon": "cat",
+        "url": "https://github.com/weikevinhc"
+	},
+	{
         "name": "Home",
         "color": "red",
         "icon": "cat",
