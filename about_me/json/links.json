@@ -1,7 +1,7 @@
 [
 	{
-        "name": "<b>About me </b>",
-        "color": "red",
+        "name": "About me",
+        "color": "black",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/about_me/"
 	},

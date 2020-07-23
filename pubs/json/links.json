@@ -12,8 +12,8 @@
         "url": "https://weikevinhc.github.io/research/"
 	},
     {
-        "name": "<b>Publications</b>",
-        "color": "red",
+        "name": "Publications",
+        "color": "black",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/pubs/"
 	},

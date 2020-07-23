@@ -6,8 +6,8 @@
         "url": "https://weikevinhc.github.io/about_me/"
 	},
     {
-        "name": "<b>Research interests</b>",
-        "color": "red",
+        "name": "Research interests",
+        "color": "black",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/research/"
 	},

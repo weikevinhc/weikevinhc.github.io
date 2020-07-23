@@ -30,8 +30,8 @@
         "url": "https://github.com/weikevinhc"
 	},
 	{
-        "name": "<b>Home</b>",
-        "color": "red",
+        "name": "Home",
+        "color": "black",
         "icon": "cat",
         "url": "https://weikevinhc.github.io/"
 	}
