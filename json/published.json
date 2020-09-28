@@ -8,7 +8,7 @@
 	},
 	{
 	"name": "Epigenetic conflict on the degenerating neo-Y",
-	"description": "The Y chromosome is replete with selfish repetitive elements, like transposable elements. If improperly silenced, they can cause deleterious mutations throughout the genome. When a neo-Y chromosome is form, it will gradually accumulate repeats while losing genes, in a process called degeneration. During this process novel TE insertions are in conflict with nearby genes; the epigenetic machinary silencing the former may unadverdantly downregulate the latter. This causes a toxic Y chromosome that is deleterious in males.",
+	"description": "The Y chromosome is replete with selfish repetitive elements, like transposable elements. If improperly silenced, they can cause deleterious mutations throughout the genome. When a neo-Y chromosome is form, it will gradually accumulate repeats while losing genes, in a process called degeneration. During this process novel TE insertions are in conflict with nearby genes; the epigenetic machinary silencing the former may unadverdantly downregulate the latter. This causes a toxic Y chromosome that is deleterious in males. This article is highlighted by <a href=\"https://prelights.biologists.com/highlights/epigenetic-conflict-on-a-degenerating-y-chromosome-increases-mutational-burden-in-drosophila-males/\"> PreLights</a>.",
 	"image": "images/toxicY.jpg",
 	"link": "https://www.biorxiv.org/content/10.1101/2020.07.19.210948v1",
 	"linkname": "Preprint"
