@@ -10,49 +10,49 @@
 	"name": "Epigenetic conflict on the degenerating neo-Y",
 	"description": "The Y chromosome is replete with selfish repetitive elements, like transposable elements. If improperly silenced, they can cause deleterious mutations throughout the genome. When a neo-Y chromosome is form, it will gradually accumulate repeats while losing genes, in a process called degeneration. During this process novel TE insertions are in conflict with nearby genes; the epigenetic machinary silencing the former may unadverdantly downregulate the latter. This causes a toxic Y chromosome that is deleterious in males. This article is highlighted by <a href=\"https://prelights.biologists.com/highlights/epigenetic-conflict-on-a-degenerating-y-chromosome-increases-mutational-burden-in-drosophila-males/\"> PreLights</a>.",
 	"image": "images/toxicY.jpg",
-	"link": "https://www.biorxiv.org/content/10.1101/2020.07.19.210948v1",
-	"linkname": "Preprint"
+	"link": "https://doi.org/10.1038/s41467-020-19134-9",
+	"linkname": "Nature Comm"
 	},
 	{
 	"name": "Recombination rate estimates from allele frequency",
 	"description": "I explore the analytical relationship between recombination rate, genetic distance and recombinant fraction, and their effects of allele frequnecy decay. Based on the theoretical results, I developed an cost-efficient and simple approach to measure recombination rate at genome scale. This approach called marker selected pools takes advantage of allele frequency decay around a selected locus to infer chromosome-wide recombination rate. The recombination rate and genetic map of a chromosome can be determined in as little as one or two libraries!<br/><br/>Wei KH-C, Mantha A, Bachtrog D. The theory and applications of measuring broad-range and chromosome-wide recombination rate from allele frequency decay around a selected locus. Mol Biol Evol. 2020. doi:10.1093/molbev/msaa171",
 	"image": "images/recomb.jpg",
-	"link": "https://pubmed.ncbi.nlm.nih.gov/32658965/",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1093/molbev/msaa171",
+	"linkname": "MBE"
 	},
 	{
 	"name": "Young neo-Ys of different ages in D. albomicans",
 	"description": "Drosophila albomicans has a pair of young neo-sex chromosomes. Surprisingly, the males of this species used to recombine. We explore the effects recombination has had on the neo-Y chromsome and the consequences after the males can no longer recombine. We find at least three neo-Y haplotypes created by recombination that are now geographically limited. Surprisingly, these neo-Ys have different ages and extent of decay. <br/><br/>Wei, K. H.-C. & Bachtrog, D. Ancestral male recombination in Drosophila albomicans produced geographically restricted neo-Y chromosome haplotypes varying in age and onset of decay. PloS Genet. 15, e1008502 (2019).",
 	"image": "images/current1.jpg",
-	"link": "https://www.ncbi.nlm.nih.gov/pubmed/31738748",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1371/journal.pgen.1008502",
+	"linkname": "PLoS Gen"
 	},
 	{
 	"name": "Assembling the massive neo-Y of D. miranda",
 	"description": "Drosophila miranda has a neo-Y chromosome that is ~1 million years old. Because it is heavily degenerate with pseudogenes and repetitive elements, we used multiple state-of-the-art genome assembly technologies to piece it together. This includes Pac-Bio, BAC clone, and BioNano sequencing and scaffolding with chromosome contact data (Hi-C). The resulting neo-Y chromosome is in two contigs, and is three times the size of the ancestral autosome from which it derived.<br/><br/>Mahajan, S., Wei, K. H.-C., Nalley, M. J., Gibilisco, L. & Bachtrog, D. De novo assembly of a young Drosophila Y chromosome using single-molecule sequencing and chromatin conformation capture. PLoS Biol. 16, e2006348 (2018).",
 	"image": "images/image1.jpg",
-	"link": "https://www.ncbi.nlm.nih.gov/pubmed/30059545",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1371/journal.pbio.2006348",
+	"linkname": "PLoS Biol"
 	},
 	{
 	"name": "Evolution of simple satellites in Drosophila",
 	"description": "We profiled the simple satellite landscape across 9 Drosophila species. We found a surprising large amount of diversity driven predominantly by the gains of lineage-specific satellites. Interestingly, newly emerged satellites are also closely related in sequence to existing satellites, suggesting that new satellites are frequently birthed from pre-exising ones.<br/><br/>Wei, K. H.-C. et al. Variable Rates of Simple Satellite Gains across the Drosophila Phylogeny. Mol. Biol. Evol. 35, 925–941 (2018).",
 	"image": "images/image3.jpg",
-	"link": "https://www.ncbi.nlm.nih.gov/pubmed/29361128",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1093/molbev/msy005",
+	"linkname": "MBE"
 	},
     {
 	"name": "Detecting meiotic drive with pooled sequencing",
 	"description": "We developed a novel approach that integrates classical genetics with genomics to identify non-Mendelian transmission frequency. Rather than genotyping single individuals, we inferred the transmission rate from pooled sequenceing of large number of individuals. Using this approach we identified a weak centromeric driver.<br/><br/>Wei, K. H.-C. et al. A Pooled Sequencing Approach Identifies a Candidate Meiotic Driver in Drosophila. Genetics 206, 451–465 (2017).",
 	"image": "images/image2.jpg",
-	"link": "https://www.ncbi.nlm.nih.gov/pubmed/28258181",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1534/genetics.116.197335",
+	"linkname": "Genetics"
 	},
 	{
 	"name": "Natural variation in simple satellites",
 	"description": "Using a new pipeline I developed (k-seek), we characterized the satellite composition across 87 strains of D. melanogaster. We found population differentiation patterns that are surprisingly different from the pattern based on SNP data. We also found that the abundance of many satellites are correlated among strains, suggesting that some satellites are coevolving.<br/><br/>Wei, K. H.-C., Grenier, J. K., Barbash, D. A. & Clark, A. G. Correlated variation and population differentiation in satellite DNA abundance among lines of Drosophila melanogaster. Proc. Natl. Acad. Sci. U. S. A. 111, 18793–18798 (2014).",
 	"image": "images/image4.jpg",
-	"link": "https://www.ncbi.nlm.nih.gov/pubmed/25512552",
-	"linkname": "Pubmed"
+	"link": "https://doi.org/10.1073/pnas.1421951112",
+	"linkname": "PNAS"
 	}
 ]
