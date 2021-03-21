@@ -1,10 +1,17 @@
 [
 	{
-	"name": "Nucleation of heterochromatin during embryogenesis",
+	"name": "Frequent bursts of TE transpositions",
+	"description": "Transposable elements are selfish genetic elements and are typically suppressed by the host genome. We are evaluating how often TEs escape host suppression causing rapid increases in copy number. To do this we assembled genomes of 7 closely related species in the nasuta species group with nanopore sequencing and identified TE insertions across these genomes. Using phylogenetics, we find widespread suppression escapes across the species, revealing the importance of TEs in the context of early speciation and recent divergence.",
+	"image": "images/TEbursts.jpg",
+	"link": "",
+	"linkname": ""
+	},
+	{
+	"name": "Heterochromatin nucleation during embryogenesis",
 	"description": "During early embryogenesis, the embryo transitions from utilizing maternally deposited RNA to producing its own. This is known as the maternal-zygotic transition, which happens at around cell cycle 13. During this time, the heterochromatin rapidly appears at repeats and pericentric regions to prevent deleterious activity of transposable elements. We are currently using maternal deposited RNAi knock-downs to identify maternal transcripts that play a role in the establishment of heterochromatin at this point.",
 	"image": "images/het_mz.jpg",
-	"link": "https://weikevinhc.github.io/research/",
-	"linkname": "Ongoing"
+	"link": "https://www.biorxiv.org/content/10.1101/2021.02.16.431328v1",
+	"linkname": "Preprint"
 	},
 	{
 	"name": "Epigenetic conflict on the degenerating neo-Y",
