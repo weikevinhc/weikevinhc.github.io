@@ -10,8 +10,8 @@
 	"name": "Heterochromatin nucleation during embryogenesis",
 	"description": "During early embryogenesis, the embryo transitions from utilizing maternally deposited RNA to producing its own. This is known as the maternal-zygotic transition, which happens at around cell cycle 13. During this time, the heterochromatin rapidly appears at repeats and pericentric regions to prevent deleterious activity of transposable elements. We are currently using maternal deposited RNAi knock-downs to identify maternal transcripts that play a role in the establishment of heterochromatin at this point.",
 	"image": "images/het_mz.jpg",
-	"link": "https://www.biorxiv.org/content/10.1101/2021.02.16.431328v1",
-	"linkname": "Preprint"
+	"link": "https://elifesciences.org/articles/55612",
+	"linkname": "eLife"
 	},
 	{
 	"name": "Epigenetic conflict on the degenerating neo-Y",
