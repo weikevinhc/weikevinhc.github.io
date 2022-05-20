@@ -1,10 +1,17 @@
 [
 	{
+	"name": "Joining UBC Zoology in Jan 2023",
+	"description": "I will be starting my own lab in the renowned department of Zoology at the University of British Columbia in the new year! I started my journey with Drosophila in this very department and in the Life Science Institute as a summer NSERC student with Dr. Vanessa Auld, and now I am coming back as an Assistant Professor. Get in touch if you love Drosophila and are interested in genetic conflicts. If you don't like flies, well, you should rethink your life choices...",
+	"image": "images/ubc_zoology.jpg",
+	"link": "https://www.zoology.ubc.ca/",
+	"linkname": "Zoology"
+	},
+	{
 	"name": "Frequent bursts of TE activity in the nasuta clade",
 	"description": "Transposable elements are selfish genetic elements and are typically suppressed by the host genome. Working with the talented grad student Dat Mai, we are evaluating how often TEs escape host suppression causing rapid increases in copy number. To do this, we assembled genomes of 7 closely related species in the nasuta species group with nanopore sequencing and identified TE insertions across these genomes. Using phylogenetics, we find widespread suppression escapes across the species, revealing the importance of TEs in the context of early speciation and recent divergence.",
 	"image": "images/TEbursts.jpg",
-	"link": "https://www.biorxiv.org/content/10.1101/2021.08.12.456169v1",
-	"linkname": "bioRxiv"
+	"link": "https://doi.org/10.1093/molbev/msac080",
+	"linkname": "MBE"
 	},
 	{
 	"name": "Heterochromatin nucleation during embryogenesis",
