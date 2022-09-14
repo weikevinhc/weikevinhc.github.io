@@ -1,17 +1,10 @@
 [
 	{
-	"name": "Grad student position available (Fall 2023)",
-	"description": "The Wei lab and Mank lab are jointly looking for a graduate students to start in Fall 2023. This will be a fully funded position co-supervised by the two labs. We are looking for a highly independent and motivated individual interested in the interplay between the evolution of recombination and genome architecture.",
-	"image": "images/gradpos.jpg",
-	"link": "images/grad_student_flyer.pdf",
-	"linkname": "Details"
-	},
-	{
-	"name": "Joining UBC Zoology in Jan 2023",
+	"name": "The Wei Lab is opening in Jan 2023",
 	"description": "I will be starting my own lab in the renowned department of Zoology at the University of British Columbia in the new year! I started my journey with Drosophila in this very department and in the Life Science Institute as a summer NSERC student with Dr. Vanessa Auld, and now I am coming back as an Assistant Professor. Get in touch if you love Drosophila and are interested in genetic conflicts. If you don't like flies, well, you should rethink your life choices...",
 	"image": "images/ubc_zoology.jpg",
-	"link": "https://www.zoology.ubc.ca/",
-	"linkname": "Zoology"
+	"link": "https://zoology.ubc.ca/person/kevin-wei",
+	"linkname": "UBC"
 	},
 	{
 	"name": "Frequent bursts of TE activity in the nasuta clade",
